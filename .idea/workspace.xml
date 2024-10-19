@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0ba72f-a235-4f7e-82fd-aefebcaa2936" name="Changes" comment="Add all files" />
+    <list default="true" id="7e0ba72f-a235-4f7e-82fd-aefebcaa2936" name="Changes" comment="add Practice01">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project01/Practice02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project01/Practice03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project01/Practice04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project01/Task01_13Oct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project01/task_19thOct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,32 +28,58 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shilpa-ramteke/seleniumAutomation.git",
-    "accountId": "237d0809-3234-46f3-8f3f-aa3dfb38525c"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shilpa-ramteke&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shilpa-ramteke/seleniumAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;237d0809-3234-46f3-8f3f-aa3dfb38525c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nNYbaJwNFFI3f1qyFbyH4t6uAS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Practice04.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.Practice01.Test01.executor": "Run",
+    "TestNG.Practice03.testmethod.executor": "Run",
+    "TestNG.Task01.testmethod01.executor": "Run",
+    "TestNG.Task01_13Oct.testmethod01.executor": "Run",
+    "TestNG.task_19thOct.createAccount.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.task_19thOct.createAccount">
+    <configuration name="Practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project01.Practice04" />
+      <module name="seleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice01.Test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumAutomation" />
       <extension name="coverage">
@@ -64,8 +98,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice03.testmethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project01" />
+      <option name="MAIN_CLASS_NAME" value="Project01.Practice03" />
+      <option name="METHOD_NAME" value="testmethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task01_13Oct.testmethod01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project01" />
+      <option name="MAIN_CLASS_NAME" value="Project01.Task01_13Oct" />
+      <option name="METHOD_NAME" value="testmethod01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_19thOct.createAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project01" />
+      <option name="MAIN_CLASS_NAME" value="Project01.task_19thOct" />
+      <option name="METHOD_NAME" value="createAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.task_19thOct.createAccount" />
+        <item itemvalue="TestNG.Task01_13Oct.testmethod01" />
+        <item itemvalue="Application.Practice04" />
+        <item itemvalue="TestNG.Practice03.testmethod" />
         <item itemvalue="TestNG.Practice01.Test01" />
       </list>
     </recent_temporary>
@@ -87,11 +179,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728816090370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Practice01">
+      <option name="closed" value="true" />
+      <created>1728816297711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728816297711</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add all files" />
+    <MESSAGE value="add Practice01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Practice01" />
   </component>
 </project>
